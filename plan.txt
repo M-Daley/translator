@@ -1,0 +1,15 @@
+CSS Layout
+
+[Body]
+Header
+	.container
+	<h1>
+Translator
+	Input
+		.input-container
+		.input (Textarea)
+		<h2>
+	.translation-container
+	.description-container
+Footer
+	
